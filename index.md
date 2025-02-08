@@ -1,7 +1,7 @@
 ---
 layout: home
 author_profile: true
-title: "Welcome to My Portfolio"
+title: "Chris Sansam"
 ---
 This site showcases my research and coding projects.
 
