@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Chris Sansam"
+title: "Chris Sansam, PhD"
 author_profile: true
 permalink: /
 header:
