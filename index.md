@@ -11,7 +11,7 @@ feature_row:
   - image_path: /assets/images/DNA_to_Binary_Sketch.jpg
     title: "Projects"
     excerpt: "Explore my latest research and coding projects."
-    url: "/projects/"
+    url: "pages/projects.md"
     btn_label: "View Projects"
     btn_class: "btn--primary"
   - image_path: /assets/images/chris.jpg
