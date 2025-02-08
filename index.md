@@ -4,14 +4,14 @@ title: "Chris Sansam"
 author_profile: true
 permalink: /
 header:
-  overlay_image: /assets/images/DNA_to_Binary_Sketch.jpg  # Add a background image (optional)
-  overlay_filter: 0.5  # Darken the image (optional)
+  overlay_image: /assets/images/DNA_to_Binary_Sketch.jpg  # Background image
+  overlay_filter: 0.5  # Darken the image
   caption: "Welcome to my computing and research portfolio"
 feature_row:
   - image_path: /assets/images/DNA_to_Binary_Sketch.jpg
     title: "Projects"
     excerpt: "Explore my latest research and coding projects."
-    url: "pages/projects.md"
+    url: "/projects/"
     btn_label: "View Projects"
     btn_class: "btn--primary"
   - image_path: /assets/images/chris.jpg
@@ -21,3 +21,5 @@ feature_row:
     btn_label: "View Publications"
     btn_class: "btn--primary"
 ---
+
+{% include feature_row %}
