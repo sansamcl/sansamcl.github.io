@@ -24,7 +24,7 @@ feature_row:
     title: "About"
     excerpt: "My bio."
     url: "/about/"
-    btn_label: "View Publications"
+    btn_label: "View My Bio."
     btn_class: "btn--primary"
 ---
 
