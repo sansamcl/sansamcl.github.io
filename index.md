@@ -21,8 +21,9 @@ feature_row:
     btn_label: "View Publications"
     btn_class: "btn--primary"
   - image_path: /assets/images/chris.jpg
-    title: "About"
-    excerpt: "My bio."
+    img_height: "50%"
+    title: "About me"
+    excerpt:
     url: "/about/"
     btn_label: "View My Bio."
     btn_class: "btn--primary"
