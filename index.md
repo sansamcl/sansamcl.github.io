@@ -20,6 +20,12 @@ feature_row:
     url: "/publications/"
     btn_label: "View Publications"
     btn_class: "btn--primary"
+  - image_path: /assets/images/chris.jpg
+    title: "About"
+    excerpt: "My bio."
+    url: "/about/"
+    btn_label: "View Publications"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
