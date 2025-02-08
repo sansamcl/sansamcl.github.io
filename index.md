@@ -14,7 +14,7 @@ feature_row:
     url: "/projects/"
     btn_label: "View Projects"
     btn_class: "btn--primary"
-  - image_path: /assets/images/chris.jpg
+  - image_path: /assets/images/Figure1_Jan31_2024.jpg
     title: "Publications"
     excerpt: "Read my published research articles."
     url: "/publications/"
