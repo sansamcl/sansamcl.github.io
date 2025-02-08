@@ -22,7 +22,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/chris.jpg
     img_height: "200px"
-    title: "About me."
+    title: "About me"
     excerpt:
     url: "/about/"
     btn_label: "View My Bio."
