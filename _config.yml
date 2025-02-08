@@ -24,3 +24,9 @@ footer_links:
   #- label: "RSS"
   #  icon: "fas fa-rss"
   #  url: "/feed.xml"
+minimal_mistakes_skin: "default"
+include: ["_pages"]
+sass:
+  style: compressed
+custom_css:
+  - "/assets/css/custom.css"
