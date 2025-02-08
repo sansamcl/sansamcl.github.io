@@ -6,7 +6,7 @@ permalink: /
 header:
   overlay_image: /assets/images/DNA_to_Binary_Sketch.jpg  # Add a background image (optional)
   overlay_filter: 0.5  # Darken the image (optional)
-  caption: "Welcome to my research portfolio"
+  caption: "Welcome to my computing and research portfolio"
 feature_row:
   - image_path: /assets/images/DNA_to_Binary_Sketch.jpg
     title: "Projects"
