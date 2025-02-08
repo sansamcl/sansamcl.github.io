@@ -4,11 +4,11 @@ title: "Chris Sansam"
 author_profile: true
 permalink: /
 header:
-  overlay_image: /assets/images/chris.jpg  # Add a background image (optional)
+  overlay_image: /assets/images/DNA_to_Binary_Sketch.jpg  # Add a background image (optional)
   overlay_filter: 0.5  # Darken the image (optional)
   caption: "Welcome to my research portfolio"
 feature_row:
-  - image_path: /assets/images/chris.jpg
+  - image_path: /assets/images/DNA_to_Binary_Sketch.jpg
     title: "Projects"
     excerpt: "Explore my latest research and coding projects."
     url: "/projects/"
